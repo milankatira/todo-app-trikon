@@ -2,9 +2,8 @@
 
 ## frontend
 
-- next js
+- react js
 - typescript
-- tailwind css
 
 ### to run frontend 
 ```bash
